@@ -1,0 +1,714 @@
+2026-08-20 10:48:49,971 - INFO - ====== WebDriver manager ======
+2026-08-20 10:48:51,180 - INFO - Get LATEST chromedriver version for google-chrome
+2026-08-20 10:48:51,376 - INFO - There is no [win64] chromedriver "151.0.7922.138" for browser google-chrome "151.0.7922" in cache
+2026-08-20 10:48:51,864 - INFO - There is no [win64] chromedriver "151.0.7922.138" for browser google-chrome "151.0.7922" in cache
+2026-08-20 10:48:51,864 - INFO - Get LATEST chromedriver version for google-chrome
+2026-08-20 10:48:52,266 - INFO - WebDriver version 151.0.7922.138 selected
+2026-08-20 10:48:52,274 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-20 10:48:52,278 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-20 10:48:52,561 - INFO - Driver downloading response is 200
+2026-08-20 10:48:54,561 - INFO - Driver has been saved in cache [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138]
+2026-08-20 10:48:56,310 - INFO - Драйвер успешно настроен
+2026-08-20 10:48:58,627 - INFO - Драйвер закрыт
+2026-08-20 10:50:21,937 - INFO - ====== WebDriver manager ======
+2026-08-20 10:50:22,503 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 10:50:23,870 - INFO - Драйвер успешно настроен
+2026-08-20 10:50:24,587 - ERROR - Ошибка при чтении Excel файла: `Import openpyxl` failed.  Use pip or conda to install the openpyxl package.
+2026-08-20 10:50:26,739 - INFO - Драйвер закрыт
+2026-08-20 10:50:30,856 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63016): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/acde68434e8f02bbf4bff7193e100f69
+2026-08-20 10:50:34,948 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63016): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/acde68434e8f02bbf4bff7193e100f69
+2026-08-20 10:50:35,574 - INFO - ====== WebDriver manager ======
+2026-08-20 10:50:36,069 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 10:50:37,524 - INFO - Драйвер успешно настроен
+2026-08-20 10:50:37,547 - ERROR - Ошибка при чтении Excel файла: `Import openpyxl` failed.  Use pip or conda to install the openpyxl package.
+2026-08-20 10:50:39,012 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63016): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/acde68434e8f02bbf4bff7193e100f69
+2026-08-20 10:50:39,770 - INFO - Драйвер закрыт
+2026-08-20 10:50:43,101 - INFO - Драйвер закрыт
+2026-08-20 10:50:43,891 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63049): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/01c4b920c42c4517ade3047c8587a6b3
+2026-08-20 10:50:47,980 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63049): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/01c4b920c42c4517ade3047c8587a6b3
+2026-08-20 10:50:52,088 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63049): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/01c4b920c42c4517ade3047c8587a6b3
+2026-08-20 10:52:27,658 - INFO - ====== WebDriver manager ======
+2026-08-20 10:52:28,209 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 10:52:29,531 - INFO - Драйвер успешно настроен
+2026-08-20 10:52:30,106 - ERROR - Ошибка при чтении Excel файла: `Import openpyxl` failed.  Use pip or conda to install the openpyxl package.
+2026-08-20 10:52:32,256 - INFO - Драйвер закрыт
+2026-08-20 10:52:36,352 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63278): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/9c3d1ed850d35f41a628f8df153d2d3f
+2026-08-20 10:52:40,446 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63278): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/9c3d1ed850d35f41a628f8df153d2d3f
+2026-08-20 10:52:44,536 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63278): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/9c3d1ed850d35f41a628f8df153d2d3f
+2026-08-20 10:52:48,633 - INFO - Драйвер закрыт
+2026-08-20 10:57:34,929 - INFO - ====== WebDriver manager ======
+2026-08-20 10:57:35,465 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 10:57:36,895 - INFO - Драйвер успешно настроен
+2026-08-20 10:57:37,529 - ERROR - Ошибка при чтении Excel файла: `Import openpyxl` failed.  Use pip or conda to install the openpyxl package.
+2026-08-20 10:57:39,741 - INFO - Драйвер закрыт
+2026-08-20 10:57:43,862 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63909): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/2d38be4c0c74fa0049e15f7e916668d2
+2026-08-20 10:57:47,957 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63909): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/2d38be4c0c74fa0049e15f7e916668d2
+2026-08-20 10:57:52,040 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63909): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/2d38be4c0c74fa0049e15f7e916668d2
+2026-08-20 10:57:56,127 - INFO - Драйвер закрыт
+2026-08-20 10:59:44,793 - INFO - ====== WebDriver manager ======
+2026-08-20 10:59:45,347 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 10:59:46,837 - INFO - Драйвер успешно настроен
+2026-08-20 10:59:48,212 - INFO - Загружено 21381 позиций из Excel
+2026-08-20 10:59:48,227 - INFO - Обработка запроса: Санки ватрушка Светяшка
+2026-08-20 11:00:14,247 - WARNING - Таймаут при поиске изображения для Санки ватрушка Светяшка
+2026-08-20 11:00:14,247 - WARNING - Не найдено изображение для: Санки ватрушка Светяшка
+2026-08-20 11:00:14,261 - INFO - Обработка запроса: Тетрадь 96л Staff Города клетка /20-02467
+2026-08-20 11:00:40,865 - WARNING - Таймаут при поиске изображения для Тетрадь 96л Staff Города клетка /20-02467
+2026-08-20 11:00:40,865 - WARNING - Не найдено изображение для: Тетрадь 96л Staff Города клетка /20-02467
+2026-08-20 11:00:40,874 - INFO - Обработка запроса: Лестница-стремянка 3-х ступ. двухсторонняя
+2026-08-20 11:01:07,115 - WARNING - Таймаут при поиске изображения для Лестница-стремянка 3-х ступ. двухсторонняя
+2026-08-20 11:01:07,115 - WARNING - Не найдено изображение для: Лестница-стремянка 3-х ступ. двухсторонняя
+2026-08-20 11:01:09,449 - INFO - Драйвер закрыт
+2026-08-20 11:04:33,744 - INFO - ====== WebDriver manager ======
+2026-08-20 11:04:34,249 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:04:35,752 - INFO - Драйвер успешно настроен
+2026-08-20 11:04:35,771 - INFO - Загружено 3 позиций из Excel
+2026-08-20 11:04:35,805 - INFO - Обработка запроса: Телефон Samsung Galaxy S23
+2026-08-20 11:05:01,244 - WARNING - Таймаут при поиске изображения для Телефон Samsung Galaxy S23
+2026-08-20 11:05:01,244 - WARNING - Не найдено изображение для: Телефон Samsung Galaxy S23
+2026-08-20 11:05:01,255 - INFO - Обработка запроса: Ноутбук Apple MacBook Pro 16
+2026-08-20 11:05:26,689 - WARNING - Таймаут при поиске изображения для Ноутбук Apple MacBook Pro 16
+2026-08-20 11:05:26,689 - WARNING - Не найдено изображение для: Ноутбук Apple MacBook Pro 16
+2026-08-20 11:05:26,697 - INFO - Обработка запроса: Наушники Sony WH-1000XM5
+2026-08-20 11:05:53,330 - WARNING - Таймаут при поиске изображения для Наушники Sony WH-1000XM5
+2026-08-20 11:05:53,331 - WARNING - Не найдено изображение для: Наушники Sony WH-1000XM5
+2026-08-20 11:05:55,578 - INFO - Драйвер закрыт
+2026-08-20 11:07:14,286 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64626): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/18872e36306b2dc8ae0f64136cda96f4
+2026-08-20 11:08:51,602 - INFO - ====== WebDriver manager ======
+2026-08-20 11:08:52,508 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:08:54,121 - INFO - Драйвер успешно настроен
+2026-08-20 11:08:54,157 - INFO - Чтение файла: test.xlsx
+2026-08-20 11:08:54,169 - INFO - Найдено столбцов: 3
+2026-08-20 11:08:54,172 - INFO - Загружено 3 позиций
+2026-08-20 11:08:54,175 - INFO - [2] Телефон Samsung Galaxy S23
+2026-08-20 11:08:54,175 - INFO - Поиск: Телефон Samsung Galaxy S23...
+2026-08-20 11:09:28,422 - WARNING - ❌ Не найдено: Телефон Samsung Galaxy S23
+2026-08-20 11:09:30,832 - INFO - [3] Ноутбук Apple MacBook Pro 16
+2026-08-20 11:09:30,832 - INFO - Поиск: Ноутбук Apple MacBook Pro 16...
+2026-08-20 11:09:30,834 - ERROR - Ошибка поиска: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5b56]
+	chromedriver!(No symbol) [0x7ff6ce222833]
+	chromedriver!(No symbol) [0x7ff6ce259c12]
+	chromedriver!(No symbol) [0x7ff6ce253a22]
+	chromedriver!(No symbol) [0x7ff6ce2531e2]
+	chromedriver!(No symbol) [0x7ff6ce19e2bb]
+	chromedriver!(No symbol) [0x7ff6ce19e912]
+	chromedriver!(No symbol) [0x7ff6ce19eed5]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff6ce19d83c]
+	chromedriver!GetHandleVerifier [0x7ff6cee935e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:09:30,834 - WARNING - ❌ Не найдено: Ноутбук Apple MacBook Pro 16
+2026-08-20 11:09:32,764 - INFO - [4] Наушники Sony WH-1000XM5
+2026-08-20 11:09:32,764 - INFO - Поиск: Наушники Sony WH-1000XM5...
+2026-08-20 11:09:32,766 - ERROR - Ошибка поиска: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5b56]
+	chromedriver!(No symbol) [0x7ff6ce222833]
+	chromedriver!(No symbol) [0x7ff6ce259c12]
+	chromedriver!(No symbol) [0x7ff6ce253a22]
+	chromedriver!(No symbol) [0x7ff6ce2531e2]
+	chromedriver!(No symbol) [0x7ff6ce19e2bb]
+	chromedriver!(No symbol) [0x7ff6ce19e912]
+	chromedriver!(No symbol) [0x7ff6ce19eed5]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff6ce19d83c]
+	chromedriver!GetHandleVerifier [0x7ff6cee935e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:09:32,767 - WARNING - ❌ Не найдено: Наушники Sony WH-1000XM5
+2026-08-20 11:09:32,767 - INFO - ✅ Завершено! Успешно: 0, Ошибок: 3
+2026-08-20 11:09:34,821 - INFO - Драйвер закрыт
+2026-08-20 11:09:57,876 - INFO - ====== WebDriver manager ======
+2026-08-20 11:09:58,424 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:09:59,979 - INFO - Драйвер успешно настроен
+2026-08-20 11:09:59,983 - INFO - Чтение файла: test.xlsx
+2026-08-20 11:09:59,996 - INFO - Найдено столбцов: 3
+2026-08-20 11:10:00,000 - INFO - Загружено 3 позиций
+2026-08-20 11:10:00,006 - INFO - [2] Телефон Samsung Galaxy S23
+2026-08-20 11:10:00,016 - INFO - Поиск: Телефон Samsung Galaxy S23...
+2026-08-20 11:10:41,679 - WARNING - ❌ Не найдено: Телефон Samsung Galaxy S23
+2026-08-20 11:10:43,274 - INFO - [3] Ноутбук Apple MacBook Pro 16
+2026-08-20 11:10:43,275 - INFO - Поиск: Ноутбук Apple MacBook Pro 16...
+2026-08-20 11:10:43,277 - ERROR - Ошибка поиска: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=151.0.7922.140)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5d6d]
+	chromedriver!(No symbol) [0x7ff6ce1acc52]
+	chromedriver!(No symbol) [0x7ff6ce2610c6]
+	chromedriver!(No symbol) [0x7ff6ce27e4f2]
+	chromedriver!(No symbol) [0x7ff6ce2237cc]
+	chromedriver!(No symbol) [0x7ff6ce2246f3]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff6ce697d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:10:43,277 - WARNING - ❌ Не найдено: Ноутбук Apple MacBook Pro 16
+2026-08-20 11:10:45,411 - INFO - [4] Наушники Sony WH-1000XM5
+2026-08-20 11:10:45,412 - INFO - Поиск: Наушники Sony WH-1000XM5...
+2026-08-20 11:10:45,415 - ERROR - Ошибка поиска: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=151.0.7922.140)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5d6d]
+	chromedriver!(No symbol) [0x7ff6ce1acc52]
+	chromedriver!(No symbol) [0x7ff6ce2610c6]
+	chromedriver!(No symbol) [0x7ff6ce27e4f2]
+	chromedriver!(No symbol) [0x7ff6ce2237cc]
+	chromedriver!(No symbol) [0x7ff6ce2246f3]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff6ce697d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:10:45,415 - WARNING - ❌ Не найдено: Наушники Sony WH-1000XM5
+2026-08-20 11:10:45,415 - INFO - ✅ Завершено! Успешно: 0, Ошибок: 3
+2026-08-20 11:10:47,577 - INFO - Драйвер закрыт
+2026-08-20 11:10:56,235 - INFO - ====== WebDriver manager ======
+2026-08-20 11:10:56,724 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:10:58,148 - INFO - Драйвер успешно настроен
+2026-08-20 11:10:58,154 - INFO - Чтение файла: test.xlsx
+2026-08-20 11:10:58,167 - INFO - Найдено столбцов: 3
+2026-08-20 11:10:58,169 - INFO - Загружено 3 позиций
+2026-08-20 11:10:58,172 - INFO - [2] Телефон Samsung Galaxy S23
+2026-08-20 11:10:58,175 - INFO - Поиск: Телефон Samsung Galaxy S23...
+2026-08-20 11:11:24,438 - INFO - Драйвер закрыт
+2026-08-20 11:13:16,244 - INFO - ====== WebDriver manager ======
+2026-08-20 11:13:16,792 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:13:18,216 - INFO - Драйвер успешно настроен
+2026-08-20 11:13:18,271 - INFO - Чтение файла: test.xlsx
+2026-08-20 11:13:18,302 - INFO - Найдено столбцов: 3
+2026-08-20 11:13:18,306 - INFO - Загружено 3 позиций
+2026-08-20 11:13:18,308 - INFO - [2] S23-BLK
+2026-08-20 11:13:20,677 - INFO - Поиск: S23-BLK...
+2026-08-20 11:13:58,414 - INFO - Найден элемент по селектору: a[href*='image']
+2026-08-20 11:14:24,549 - WARNING - ❌ Не найдено: S23-BLK
+2026-08-20 11:14:24,550 - INFO - ⏳ Пауза 5.3 сек...
+2026-08-20 11:14:29,850 - INFO - [3] MBP16-2023
+2026-08-20 11:14:34,561 - INFO - Поиск: MBP16-2023...
+2026-08-20 11:15:14,473 - INFO - Найден элемент по селектору: a[href*='image']
+2026-08-20 11:15:24,438 - WARNING - ❌ Не найдено: MBP16-2023
+2026-08-20 11:15:24,438 - INFO - ⏳ Пауза 4.5 сек...
+2026-08-20 11:15:28,930 - INFO - [4] WH1000XM5
+2026-08-20 11:15:33,659 - INFO - Поиск: WH1000XM5...
+2026-08-20 11:15:33,661 - ERROR - Ошибка поиска: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=151.0.7922.140)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5d6d]
+	chromedriver!(No symbol) [0x7ff6ce1acc52]
+	chromedriver!(No symbol) [0x7ff6ce2610c6]
+	chromedriver!(No symbol) [0x7ff6ce27e4f2]
+	chromedriver!(No symbol) [0x7ff6ce2237cc]
+	chromedriver!(No symbol) [0x7ff6ce2246f3]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff6ce697d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:15:33,661 - WARNING - ❌ Не найдено: WH1000XM5
+2026-08-20 11:15:33,661 - INFO - ✅ Завершено! Успешно: 0, Ошибок: 3
+2026-08-20 11:15:35,829 - INFO - Драйвер закрыт
+2026-08-20 11:19:39,915 - INFO - ====== WebDriver manager ======
+2026-08-20 11:19:40,460 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:19:41,794 - INFO - Драйвер успешно настроен
+2026-08-20 11:19:41,829 - INFO - Чтение файла: test.xlsx
+2026-08-20 11:19:41,841 - INFO - Найдено столбцов: 3
+2026-08-20 11:19:41,844 - INFO - Загружено 3 позиций
+2026-08-20 11:19:41,847 - INFO - [2] S23-BLK
+2026-08-20 11:19:45,571 - INFO - Поиск: S23-BLK...
+2026-08-20 11:20:23,355 - WARNING - Изображения не найдены
+2026-08-20 11:20:23,355 - WARNING - ❌ Не найдено: S23-BLK
+2026-08-20 11:20:23,355 - INFO - ⏳ Пауза 4.8 сек...
+2026-08-20 11:20:28,191 - INFO - [3] MBP16-2023
+2026-08-20 11:20:32,337 - INFO - Поиск: MBP16-2023...
+2026-08-20 11:20:32,338 - ERROR - Ошибка поиска: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5b56]
+	chromedriver!(No symbol) [0x7ff6ce222833]
+	chromedriver!(No symbol) [0x7ff6ce259c12]
+	chromedriver!(No symbol) [0x7ff6ce253a22]
+	chromedriver!(No symbol) [0x7ff6ce2531e2]
+	chromedriver!(No symbol) [0x7ff6ce19e2bb]
+	chromedriver!(No symbol) [0x7ff6ce19e912]
+	chromedriver!(No symbol) [0x7ff6ce19eed5]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff6ce19d83c]
+	chromedriver!GetHandleVerifier [0x7ff6cee935e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:20:32,338 - WARNING - ❌ Не найдено: MBP16-2023
+2026-08-20 11:20:32,339 - INFO - ⏳ Пауза 5.8 сек...
+2026-08-20 11:20:38,144 - INFO - [4] WH1000XM5
+2026-08-20 11:20:40,580 - INFO - Поиск: WH1000XM5...
+2026-08-20 11:20:40,582 - ERROR - Ошибка поиска: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5b56]
+	chromedriver!(No symbol) [0x7ff6ce222833]
+	chromedriver!(No symbol) [0x7ff6ce259c12]
+	chromedriver!(No symbol) [0x7ff6ce253a22]
+	chromedriver!(No symbol) [0x7ff6ce2531e2]
+	chromedriver!(No symbol) [0x7ff6ce19e2bb]
+	chromedriver!(No symbol) [0x7ff6ce19e912]
+	chromedriver!(No symbol) [0x7ff6ce19eed5]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff6ce19d83c]
+	chromedriver!GetHandleVerifier [0x7ff6cee935e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 11:20:40,582 - WARNING - ❌ Не найдено: WH1000XM5
+2026-08-20 11:20:40,583 - INFO - ✅ Завершено! Успешно: 0, Ошибок: 3
+2026-08-20 11:20:42,637 - INFO - Драйвер закрыт
+2026-08-20 11:20:46,307 - INFO - ====== WebDriver manager ======
+2026-08-20 11:20:46,784 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 11:20:48,122 - INFO - Драйвер успешно настроен
+2026-08-20 11:20:48,133 - INFO - Чтение файла: test.xlsx
+2026-08-20 11:20:48,146 - INFO - Найдено столбцов: 3
+2026-08-20 11:20:48,148 - INFO - Загружено 3 позиций
+2026-08-20 11:20:48,155 - INFO - [2] S23-BLK
+2026-08-20 11:20:51,339 - INFO - Поиск: S23-BLK...
+2026-08-20 11:21:26,306 - INFO - Найден элемент по селектору: a[href*='image']
+2026-08-20 11:21:33,982 - INFO - Драйвер закрыт
+2026-08-20 12:55:00,854 - WARNING - ⚠️ undetected-chromedriver не доступен, используется стандартный Selenium
+2026-08-20 12:55:00,866 - INFO - 🔧 Используется стандартный Selenium
+2026-08-20 12:55:00,867 - INFO - ====== WebDriver manager ======
+2026-08-20 12:55:01,450 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 12:55:02,946 - INFO - ✅ Драйвер (Selenium) успешно настроен
+2026-08-20 12:55:02,979 - INFO - 📂 Чтение файла: test.xlsx
+2026-08-20 12:55:02,990 - INFO - 📊 Найдено строк: 3, столбцов: 3
+2026-08-20 12:55:02,993 - INFO - ✅ Загружено 3 позиций
+2026-08-20 12:55:02,995 - INFO - [2] S23-BLK
+2026-08-20 12:55:06,344 - INFO - 🔍 Поиск: S23-BLK...
+2026-08-20 12:55:54,953 - INFO - Попытка 2/3...
+2026-08-20 12:56:39,533 - INFO - Попытка 3/3...
+2026-08-20 12:57:31,397 - WARNING - ❌ Не найдено: S23-BLK
+2026-08-20 12:57:31,398 - INFO - ⏳ Пауза 5.0 сек...
+2026-08-20 12:57:36,406 - INFO - [3] MBP16-2023
+2026-08-20 12:57:39,566 - INFO - 🔍 Поиск: MBP16-2023...
+2026-08-20 12:58:29,456 - INFO - Попытка 2/3...
+2026-08-20 12:59:14,020 - INFO - Попытка 3/3...
+2026-08-20 13:00:04,416 - WARNING - ❌ Не найдено: MBP16-2023
+2026-08-20 13:00:04,417 - INFO - ⏳ Пауза 7.8 сек...
+2026-08-20 13:00:12,193 - INFO - [4] WH1000XM5
+2026-08-20 13:00:16,909 - INFO - 🔍 Поиск: WH1000XM5...
+2026-08-20 13:00:16,911 - ERROR - ❌ Ошибка поиска: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=151.0.7922.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5d6d]
+	chromedriver!(No symbol) [0x7ff6ce1c15c2]
+	chromedriver!(No symbol) [0x7ff6ce1e74a1]
+	chromedriver!(No symbol) [0x7ff6ce261320]
+	chromedriver!(No symbol) [0x7ff6ce27e4f2]
+	chromedriver!(No symbol) [0x7ff6ce2237cc]
+	chromedriver!(No symbol) [0x7ff6ce2246f3]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff6ce6b4ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff6ce697d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 13:00:16,912 - WARNING - ❌ Не найдено: WH1000XM5
+2026-08-20 13:00:16,913 - INFO - ✅ Завершено! Успешно: 0, Ошибок: 3
+2026-08-20 13:00:19,070 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:03:02,684 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55254): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/11a7eb4b817bc5b9fe65cfc0cff1d60e
+2026-08-20 13:03:06,791 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55254): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/11a7eb4b817bc5b9fe65cfc0cff1d60e
+2026-08-20 13:03:10,896 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55254): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/11a7eb4b817bc5b9fe65cfc0cff1d60e
+2026-08-20 13:05:47,434 - INFO - ====== WebDriver manager ======
+2026-08-20 13:05:48,045 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 13:05:49,730 - INFO - ✅ Драйвер успешно настроен
+2026-08-20 13:05:49,752 - INFO - 📂 Чтение файла: test.xlsx
+2026-08-20 13:05:49,757 - INFO - 📊 Найдено строк: 3, столбцов: 3
+2026-08-20 13:05:49,758 - INFO - ✅ Загружено 3 позиций
+2026-08-20 13:05:49,769 - INFO - 📋 Найдено 0 ранее обработанных запросов
+2026-08-20 13:05:49,770 - INFO - [2] S23-BLK
+2026-08-20 13:05:53,816 - INFO - 🔍 Поиск: S23-BLK...
+2026-08-20 13:06:00,394 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:06:00,394 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/ozon.ru?size=16&stub=1...
+2026-08-20 13:06:00,401 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/ozon.ru?size=16&stub=1...
+2026-08-20 13:06:00,401 - INFO - ⏳ Пауза 4.9 сек...
+2026-08-20 13:06:05,261 - INFO - [3] MBP16-2023
+2026-08-20 13:06:09,304 - INFO - 🔍 Поиск: MBP16-2023...
+2026-08-20 13:06:15,460 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:06:15,460 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-5194696-images-thumbs&n...
+2026-08-20 13:06:15,473 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-519...
+2026-08-20 13:06:15,473 - INFO - ⏳ Пауза 4.3 сек...
+2026-08-20 13:06:19,744 - INFO - [4] WH1000XM5
+2026-08-20 13:06:23,302 - INFO - 🔍 Поиск: WH1000XM5...
+2026-08-20 13:06:29,493 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:06:29,493 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-10115491-images-thumbs&...
+2026-08-20 13:06:29,504 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-101...
+2026-08-20 13:06:29,504 - INFO - ✅ Завершено! Успешно: 3, Ошибок: 0
+2026-08-20 13:06:29,505 - INFO - 📁 Результаты сохранены в: image_links.csv
+2026-08-20 13:06:31,730 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:09:42,568 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56303): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/e2f2e92035733bbd15586b817668ee16
+2026-08-20 13:09:46,652 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56303): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/e2f2e92035733bbd15586b817668ee16
+2026-08-20 13:09:50,770 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56303): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/e2f2e92035733bbd15586b817668ee16
+2026-08-20 13:12:33,742 - INFO - ====== WebDriver manager ======
+2026-08-20 13:12:34,307 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 13:12:35,689 - INFO - ✅ Драйвер успешно настроен
+2026-08-20 13:12:35,717 - INFO - 📂 Чтение файла: test.xlsx
+2026-08-20 13:12:35,724 - INFO - 📊 Найдено строк: 3, столбцов: 3
+2026-08-20 13:12:35,727 - INFO - ✅ Загружено 3 позиций
+2026-08-20 13:12:35,729 - WARNING - ⚠️ Не удалось прочитать существующий файл: File is not a zip file
+2026-08-20 13:12:35,729 - INFO - [2] Телефон Samsung Galaxy S23
+2026-08-20 13:12:39,845 - INFO - 🔍 Поиск: Телефон Samsung Galaxy S23...
+2026-08-20 13:12:47,085 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:12:47,085 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=b9ffe3f55c96c0d5324a9d7991a10a36187b1b31-5218303-images-thumbs&n...
+2026-08-20 13:12:47,087 - WARNING - ⚠️ Ошибка чтения существующего файла: File is not a zip file. Создаем новый.
+2026-08-20 13:12:47,091 - ERROR - ❌ Ошибка сохранения Excel: Invalid extension for engine '<property object at 0x000001C835EB3790>': 'csv'
+2026-08-20 13:12:47,096 - ERROR - ❌ Критическая ошибка сохранения: [Errno 13] Permission denied: 'image_links.csv'
+2026-08-20 13:12:47,096 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=b9ffe3f55c96c0d5324a9d7991a10a36187b1b31-521...
+2026-08-20 13:12:47,096 - INFO - ⏳ Пауза 3.8 сек...
+2026-08-20 13:12:50,862 - INFO - [3] Ноутбук Apple MacBook Pro 16
+2026-08-20 13:12:52,912 - INFO - 🔍 Поиск: Ноутбук Apple MacBook Pro 16...
+2026-08-20 13:13:00,735 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:13:00,735 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-yabs_performance/14724119/hat3ccd39ebe7d141ecaf8de6d6b4134314/hug...
+2026-08-20 13:13:00,737 - WARNING - ⚠️ Ошибка чтения существующего файла: File is not a zip file. Создаем новый.
+2026-08-20 13:13:00,737 - ERROR - ❌ Ошибка сохранения Excel: Invalid extension for engine '<property object at 0x000001C835EB3790>': 'csv'
+2026-08-20 13:13:00,740 - ERROR - ❌ Критическая ошибка сохранения: [Errno 13] Permission denied: 'image_links.csv'
+2026-08-20 13:13:00,740 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-yabs_performance/14724119/hat3ccd39ebe7d141ec...
+2026-08-20 13:13:00,740 - INFO - ⏳ Пауза 4.9 сек...
+2026-08-20 13:13:05,642 - INFO - [4] Наушники Sony WH-1000XM5
+2026-08-20 13:13:08,057 - INFO - 🔍 Поиск: Наушники Sony WH-1000XM5...
+2026-08-20 13:13:14,237 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:13:14,237 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-yabs_performance/13602699/hat57ae92b940adefe84c4701f433ce27b5/hug...
+2026-08-20 13:13:14,238 - WARNING - ⚠️ Ошибка чтения существующего файла: File is not a zip file. Создаем новый.
+2026-08-20 13:13:14,239 - ERROR - ❌ Ошибка сохранения Excel: Invalid extension for engine '<property object at 0x000001C835EB3790>': 'csv'
+2026-08-20 13:13:14,241 - ERROR - ❌ Критическая ошибка сохранения: [Errno 13] Permission denied: 'image_links.csv'
+2026-08-20 13:13:14,241 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-yabs_performance/13602699/hat57ae92b940adefe8...
+2026-08-20 13:13:14,242 - INFO - ✅ Завершено! Успешно: 3, Ошибок: 0
+2026-08-20 13:13:14,242 - INFO - 📁 Результаты сохранены в: image_links.csv
+2026-08-20 13:13:16,565 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:13:47,735 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=57026): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/47d52441ba8ab674d27b925db3b90c74
+2026-08-20 13:13:51,835 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=57026): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/47d52441ba8ab674d27b925db3b90c74
+2026-08-20 13:27:03,823 - WARNING - ⚠️ Для формата Excel рекомендуется расширение .xlsx или .xls. Текущее: .csv
+2026-08-20 13:27:03,823 - INFO - 🔄 Автоматически изменено расширение на: image_links.xlsx
+2026-08-20 13:27:03,846 - INFO - ✅ Создан новый Excel файл: image_links.xlsx с заголовками
+2026-08-20 13:27:03,859 - INFO - ====== WebDriver manager ======
+2026-08-20 13:27:04,483 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 13:27:05,846 - INFO - ✅ Драйвер успешно настроен
+2026-08-20 13:27:05,905 - INFO - 📂 Чтение файла: test.xlsx
+2026-08-20 13:27:05,918 - INFO - 📊 Найдено строк: 3, столбцов: 3
+2026-08-20 13:27:05,921 - INFO - ✅ Загружено 3 позиций
+2026-08-20 13:27:05,946 - INFO - 📋 Найдено 0 ранее обработанных запросов
+2026-08-20 13:27:05,946 - INFO - [2] S23-BLK
+2026-08-20 13:27:10,867 - INFO - 🔍 Поиск: S23-BLK...
+2026-08-20 13:27:18,146 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:27:18,147 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/mobilka03.ru?size=16&stub=1...
+2026-08-20 13:27:18,177 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/mobilka03.ru?size=16&stub=1...
+2026-08-20 13:27:18,177 - INFO - ⏳ Пауза 3.1 сек...
+2026-08-20 13:27:21,327 - INFO - [3] MBP16-2023
+2026-08-20 13:27:25,078 - INFO - 🔍 Поиск: MBP16-2023...
+2026-08-20 13:27:30,991 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:27:30,992 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-5194696-images-thumbs&n...
+2026-08-20 13:27:31,029 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-519...
+2026-08-20 13:27:31,029 - INFO - ⏳ Пауза 3.8 сек...
+2026-08-20 13:27:34,851 - INFO - [4] WH1000XM5
+2026-08-20 13:27:39,156 - INFO - 🔍 Поиск: WH1000XM5...
+2026-08-20 13:27:45,929 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:27:45,930 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-10115491-images-thumbs&...
+2026-08-20 13:27:45,959 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-101...
+2026-08-20 13:27:45,959 - INFO - ✅ Завершено! Успешно: 3, Ошибок: 0
+2026-08-20 13:27:45,960 - INFO - 📁 Результаты сохранены в: image_links.xlsx
+2026-08-20 13:27:48,200 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:28:51,252 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58014): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/0d3a53ae47eeeba7fd394835c869113f
+2026-08-20 13:28:55,352 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58014): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/0d3a53ae47eeeba7fd394835c869113f
+2026-08-20 13:28:59,462 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58014): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/0d3a53ae47eeeba7fd394835c869113f
+2026-08-20 13:29:03,563 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:33:12,631 - WARNING - ⚠️ Для формата Excel рекомендуется расширение .xlsx или .xls. Текущее: .csv
+2026-08-20 13:33:12,631 - INFO - 🔄 Автоматически изменено расширение на: image_links.xlsx
+2026-08-20 13:33:12,651 - INFO - ✅ Создан новый Excel файл: image_links.xlsx с заголовками
+2026-08-20 13:33:12,665 - INFO - ====== WebDriver manager ======
+2026-08-20 13:33:13,309 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 13:33:14,793 - INFO - ✅ Драйвер успешно настроен
+2026-08-20 13:33:14,836 - INFO - 📂 Чтение файла: test.xlsx
+2026-08-20 13:33:14,848 - INFO - 📊 Найдено строк: 3, столбцов: 3
+2026-08-20 13:33:14,852 - INFO - ✅ Загружено 3 позиций
+2026-08-20 13:33:14,874 - INFO - 📋 Найдено 0 ранее обработанных запросов
+2026-08-20 13:33:14,874 - INFO - [2] S23-BLK
+2026-08-20 13:33:18,861 - INFO - 🔍 Поиск: S23-BLK...
+2026-08-20 13:33:25,744 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:33:25,744 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/xn--80ab4a6aza2b.xn--p1ai?size=16&stub=1...
+2026-08-20 13:33:25,767 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/xn--80ab4a6aza2b.xn--p1ai?size=16&stub=1...
+2026-08-20 13:33:25,767 - INFO - ⏳ Пауза 5.3 сек...
+2026-08-20 13:33:31,046 - INFO - [3] MBP16-2023
+2026-08-20 13:33:35,017 - INFO - 🔍 Поиск: MBP16-2023...
+2026-08-20 13:33:41,512 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:33:41,512 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-5194696-images-thumbs&n...
+2026-08-20 13:33:41,541 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-519...
+2026-08-20 13:33:41,541 - INFO - ⏳ Пауза 6.0 сек...
+2026-08-20 13:33:47,502 - INFO - [4] WH1000XM5
+2026-08-20 13:33:51,404 - INFO - 🔍 Поиск: WH1000XM5...
+2026-08-20 13:33:58,120 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:33:58,120 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-10115491-images-thumbs&...
+2026-08-20 13:33:58,151 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-101...
+2026-08-20 13:33:58,152 - INFO - ✅ Завершено! Успешно: 3, Ошибок: 0
+2026-08-20 13:33:58,152 - INFO - 📁 Результаты сохранены в: image_links.xlsx
+2026-08-20 13:34:00,399 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:34:06,180 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58455): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/c7cdff470d6ce55578466ecc962ad4c1
+2026-08-20 13:34:10,292 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58455): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/c7cdff470d6ce55578466ecc962ad4c1
+2026-08-20 13:34:14,383 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58455): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/c7cdff470d6ce55578466ecc962ad4c1
+2026-08-20 13:34:18,470 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:39:25,673 - WARNING - ⚠️ Для формата Excel рекомендуется расширение .xlsx или .xls. Текущее: .csv
+2026-08-20 13:39:25,673 - INFO - 🔄 Автоматически изменено расширение на: image_links.xlsx
+2026-08-20 13:39:25,689 - INFO - ✅ Создан новый Excel файл: image_links.xlsx с заголовками
+2026-08-20 13:39:25,704 - INFO - ====== WebDriver manager ======
+2026-08-20 13:39:26,266 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 13:39:27,743 - INFO - ✅ Драйвер успешно настроен
+2026-08-20 13:39:27,773 - INFO - 📂 Чтение файла: test.xlsx
+2026-08-20 13:39:27,791 - INFO - 📊 Найдено строк: 3, столбцов: 3
+2026-08-20 13:39:27,793 - INFO - ✅ Загружено 3 позиций
+2026-08-20 13:39:27,829 - INFO - 📋 Найдено 0 ранее обработанных запросов
+2026-08-20 13:39:27,829 - INFO - [2] S23-BLK
+2026-08-20 13:39:31,822 - INFO - 🔍 Поиск: S23-BLK...
+2026-08-20 13:39:38,304 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:39:38,304 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/apple-avenue.ru?size=16&stub=1...
+2026-08-20 13:39:38,328 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/apple-avenue.ru?size=16&stub=1...
+2026-08-20 13:39:38,328 - INFO - ⏳ Пауза 4.9 сек...
+2026-08-20 13:39:43,225 - INFO - [3] MBP16-2023
+2026-08-20 13:39:47,983 - INFO - 🔍 Поиск: MBP16-2023...
+2026-08-20 13:39:54,128 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:39:54,128 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-5194696-images-thumbs&n...
+2026-08-20 13:39:54,155 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-519...
+2026-08-20 13:39:54,156 - INFO - ⏳ Пауза 4.8 сек...
+2026-08-20 13:39:59,001 - INFO - [4] WH1000XM5
+2026-08-20 13:40:02,426 - INFO - 🔍 Поиск: WH1000XM5...
+2026-08-20 13:40:09,276 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:40:09,276 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-10115491-images-thumbs&...
+2026-08-20 13:40:09,308 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-101...
+2026-08-20 13:40:09,309 - INFO - ✅ Завершено! Успешно: 3, Ошибок: 0
+2026-08-20 13:40:09,310 - INFO - 📁 Результаты сохранены в: image_links.xlsx
+2026-08-20 13:40:11,568 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:40:18,072 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59196): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/2f929e9931a26477c1cf1d84f74d7f72
+2026-08-20 13:40:22,207 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59196): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/2f929e9931a26477c1cf1d84f74d7f72
+2026-08-20 13:40:26,329 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59196): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/2f929e9931a26477c1cf1d84f74d7f72
+2026-08-20 13:40:30,434 - INFO - 🔒 Драйвер закрыт
+2026-08-20 13:42:53,037 - WARNING - ⚠️ Для формата Excel рекомендуется расширение .xlsx или .xls. Текущее: .csv
+2026-08-20 13:42:53,037 - INFO - 🔄 Автоматически изменено расширение на: image_links.xlsx
+2026-08-20 13:42:53,053 - INFO - ✅ Создан новый Excel файл: image_links.xlsx с заголовками
+2026-08-20 13:42:53,066 - INFO - ====== WebDriver manager ======
+2026-08-20 13:42:53,606 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 13:42:54,962 - INFO - ✅ Драйвер успешно настроен
+2026-08-20 13:42:54,991 - INFO - 📂 Чтение файла: data_for_parser.xlsx
+2026-08-20 13:42:55,520 - INFO - 📊 Найдено строк: 21614, столбцов: 1
+2026-08-20 13:42:55,528 - INFO - ✅ Загружено 25 позиций
+2026-08-20 13:42:55,546 - INFO - 📋 Найдено 0 ранее обработанных запросов
+2026-08-20 13:42:55,546 - INFO - [2] Санки ватрушка Светяшка
+2026-08-20 13:42:58,704 - INFO - 🔍 Поиск: Санки ватрушка Светяшка...
+2026-08-20 13:43:06,259 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:43:06,259 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=741769c5e431e010b38e34b0189953e0a13086a7-9181393-images-thumbs&n...
+2026-08-20 13:43:06,278 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=741769c5e431e010b38e34b0189953e0a13086a7-918...
+2026-08-20 13:43:06,279 - INFO - ⏳ Пауза 3.8 сек...
+2026-08-20 13:43:10,112 - INFO - [3] Тетрадь 96л Staff Города клетка /20-02467
+2026-08-20 13:43:12,263 - INFO - 🔍 Поиск: Тетрадь 96л Staff Города клетка  20-02467...
+2026-08-20 13:43:19,108 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:43:19,109 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=71cd53ab521777ca963ca64f0dd158b77ff2a1f0-8497446-images-thumbs&n...
+2026-08-20 13:43:19,139 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=71cd53ab521777ca963ca64f0dd158b77ff2a1f0-849...
+2026-08-20 13:43:19,139 - INFO - ⏳ Пауза 5.7 сек...
+2026-08-20 13:43:24,813 - INFO - [4] Лестница-стремянка 3-х ступ. двухсторонняя
+2026-08-20 13:43:28,362 - INFO - 🔍 Поиск: Лестница-стремянка 3-х ступ. двухсторонняя...
+2026-08-20 13:43:34,245 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:43:34,245 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/vseinstrumenti.ru?size=16&stub=1...
+2026-08-20 13:43:34,275 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/vseinstrumenti.ru?size=16&stub=1...
+2026-08-20 13:43:34,275 - INFO - ⏳ Пауза 3.4 сек...
+2026-08-20 13:43:37,655 - INFO - [5] Гастроемкость нерж. 654х530х100 24л
+2026-08-20 13:43:40,490 - INFO - 🔍 Поиск: Гастроемкость нерж. 654х530х100 24л...
+2026-08-20 13:43:47,638 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:43:47,638 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=178dc8047cbc9aa2c3c3f520fda6e8ae7f0468fb-16559529-images-thumbs&...
+2026-08-20 13:43:47,668 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=178dc8047cbc9aa2c3c3f520fda6e8ae7f0468fb-165...
+2026-08-20 13:43:47,669 - INFO - ⏳ Пауза 3.1 сек...
+2026-08-20 13:43:50,739 - INFO - [6] Салфетки микрофибра 30*30см, комплект 8шт COLOR
+2026-08-20 13:43:55,524 - INFO - 🔍 Поиск: Салфетки микрофибра 30 30см, комплект 8шт COLOR...
+2026-08-20 13:44:04,271 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:44:04,271 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=eb9df06bd699af5f8a4ec921e9196df87ee87e26-4120172-images-thumbs&n...
+2026-08-20 13:44:04,303 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=eb9df06bd699af5f8a4ec921e9196df87ee87e26-412...
+2026-08-20 13:44:04,303 - INFO - ⏳ Пауза 6.0 сек...
+2026-08-20 13:44:10,264 - INFO - [7] ЯЯЯ ПОДАРОК Маска тонирующая д/волос Эстель 8/1 Фи
+2026-08-20 13:44:14,641 - INFO - 🔍 Поиск: ЯЯЯ ПОДАРОК Маска тонирующая д волос Эстель 8 1 Фи...
+2026-08-20 13:44:20,343 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:44:20,344 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=636129e00eb71af1ec53f88827ed924e986b7377-10098996-images-thumbs&...
+2026-08-20 13:44:20,375 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=636129e00eb71af1ec53f88827ed924e986b7377-100...
+2026-08-20 13:44:20,375 - INFO - ⏳ Пауза 5.5 сек...
+2026-08-20 13:44:25,920 - INFO - [8] Защелка Code Deco 5400-CR хром
+2026-08-20 13:44:30,667 - INFO - 🔍 Поиск: Защелка Code Deco 5400-CR хром...
+2026-08-20 13:44:36,302 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:44:36,302 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=71eb959f5aac2d89b2a5da1ef7386ca74dc25e22-11924985-images-thumbs&...
+2026-08-20 13:44:36,335 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=71eb959f5aac2d89b2a5da1ef7386ca74dc25e22-119...
+2026-08-20 13:44:36,335 - INFO - ⏳ Пауза 4.7 сек...
+2026-08-20 13:44:40,999 - INFO - [9] ЯЯЯ Краска д/бровей и ресниц Роколор Микро Коричне
+2026-08-20 13:44:45,350 - INFO - 🔍 Поиск: ЯЯЯ Краска д бровей и ресниц Роколор Микро Коричне...
+2026-08-20 13:44:51,509 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:44:51,509 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f9b826e1d5a84aa4d0b77d68fd0d0a6c_sr-4836432-images-thumbs&n=13...
+2026-08-20 13:44:51,540 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=f9b826e1d5a84aa4d0b77d68fd0d0a6c_sr-4836432-...
+2026-08-20 13:44:51,541 - INFO - ⏳ Пауза 5.5 сек...
+2026-08-20 13:44:57,063 - INFO - [10] Термопленка силиконовая в рулоне 0,8 за 1м
+2026-08-20 13:45:02,010 - INFO - 🔍 Поиск: Термопленка силиконовая в рулоне 0,8 за 1м...
+2026-08-20 13:45:07,284 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:45:07,284 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/tehno-tkan.ru?size=16&stub=1...
+2026-08-20 13:45:07,318 - INFO - ✅ Ссылка получена: https://favicon.yandex.net/favicon/tehno-tkan.ru?size=16&stub=1...
+2026-08-20 13:45:07,318 - INFO - ⏳ Пауза 3.4 сек...
+2026-08-20 13:45:10,760 - INFO - [11] Двухполюсный указатель напряжения УНК-0,4 (Р)
+2026-08-20 13:45:14,299 - INFO - 🔍 Поиск: Двухполюсный указатель напряжения УНК-0,4 (Р)...
+2026-08-20 13:45:20,187 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:45:20,187 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=a9eec0df983d453e8d9f2f31e544868510a17a1f-4956265-images-thumbs&n...
+2026-08-20 13:45:20,221 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=a9eec0df983d453e8d9f2f31e544868510a17a1f-495...
+2026-08-20 13:45:20,222 - INFO - ⏳ Пауза 5.6 сек...
+2026-08-20 13:45:25,776 - INFO - [12] Сумка из мягкого пластика 40*30 Голландия 140мкн
+2026-08-20 13:45:28,269 - INFO - 🔍 Поиск: Сумка из мягкого пластика 40 30 Голландия 140мкн...
+2026-08-20 13:45:35,527 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:45:35,527 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=eccfee7386bdd88b2739f4723faaa79dd92b1c06-5213980-images-thumbs&n...
+2026-08-20 13:45:35,570 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=eccfee7386bdd88b2739f4723faaa79dd92b1c06-521...
+2026-08-20 13:45:35,570 - INFO - ⏳ Пауза 4.2 сек...
+2026-08-20 13:45:39,778 - INFO - [13] Лампа светодиодная LED 10Вт Т8 G13 6500К дневной
+2026-08-20 13:45:42,851 - INFO - 🔍 Поиск: Лампа светодиодная LED 10Вт Т8 G13 6500К дневной...
+2026-08-20 13:45:50,354 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:45:50,355 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-direct/5252717/tOqbdMQo2Zz4fr_CyZ-Vvw/y300...
+2026-08-20 13:45:50,389 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-direct/5252717/tOqbdMQo2Zz4fr_CyZ-Vvw/y300...
+2026-08-20 13:45:50,389 - INFO - ⏳ Пауза 5.4 сек...
+2026-08-20 13:45:55,807 - INFO - [14] Укрывной матер.Спанбонд 42 Экономный Садовод 3,2*6
+2026-08-20 13:45:59,403 - INFO - 🔍 Поиск: Укрывной матер.Спанбонд 42 Экономный Садовод 3,2 6...
+2026-08-20 13:46:04,329 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:46:04,330 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=273c730b12c6a27d39e41eb6eab0292417866af4-5243715-images-thumbs&n...
+2026-08-20 13:46:04,363 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=273c730b12c6a27d39e41eb6eab0292417866af4-524...
+2026-08-20 13:46:04,364 - INFO - ⏳ Пауза 3.6 сек...
+2026-08-20 13:46:07,929 - INFO - [15] БАД Кальций Д3 со вкусом апельсина №30 банка /1906
+2026-08-20 13:46:11,426 - INFO - 🔍 Поиск: БАД Кальций Д3 со вкусом апельсина №30 банка  1906...
+2026-08-20 13:46:18,651 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:46:18,651 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=1e741b31caa3c9517bec798db8a648b5b7e4b736-10385082-images-thumbs&...
+2026-08-20 13:46:18,684 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=1e741b31caa3c9517bec798db8a648b5b7e4b736-103...
+2026-08-20 13:46:18,685 - INFO - ⏳ Пауза 4.2 сек...
+2026-08-20 13:46:22,880 - INFO - [16] Лампа светодиодная LED 20вт Т8 холодный матовый
+2026-08-20 13:46:25,010 - INFO - 🔍 Поиск: Лампа светодиодная LED 20вт Т8 холодный матовый...
+2026-08-20 13:46:30,936 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:46:30,937 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-yabs_performance/11515558/hat7a5e51f62171bb262166123ebeac3c14/hug...
+2026-08-20 13:46:30,971 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/get-yabs_performance/11515558/hat7a5e51f62171bb26...
+2026-08-20 13:46:30,972 - INFO - ⏳ Пауза 4.3 сек...
+2026-08-20 13:46:35,232 - INFO - [17] Фартук одноразовый 50 шт.
+2026-08-20 13:46:39,519 - INFO - 🔍 Поиск: Фартук одноразовый 50 шт....
+2026-08-20 13:46:46,962 - INFO - ✅ Найдено изображение по селектору: img[src*='yandex.net']
+2026-08-20 13:46:46,962 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=6328390bde37db35274264841176ebdcf86a47a3-5336145-images-thumbs&n...
+2026-08-20 13:46:46,997 - INFO - ✅ Ссылка получена: https://avatars.mds.yandex.net/i?id=6328390bde37db35274264841176ebdcf86a47a3-533...
+2026-08-20 13:46:46,997 - INFO - ⏳ Пауза 3.1 сек...
+2026-08-20 13:46:50,049 - INFO - [18] Секатор универсал.
+2026-08-20 13:46:53,514 - INFO - 🔍 Поиск: Секатор универсал....
+2026-08-20 13:47:00,404 - INFO - 🔍 Пробуем найти через JavaScript...
+2026-08-20 13:47:00,406 - INFO - 🔍 Пробуем кликнуть на результат...
+2026-08-20 13:47:00,410 - WARNING - ❌ Ссылка не найдена: Секатор универсал.
+2026-08-20 13:47:00,410 - INFO - ⏳ Пауза 4.6 сек...
+2026-08-20 13:47:05,051 - INFO - [19] ЯЯЯ Краска д/волос Эстель Гель №116 тон натур.-рус
+2026-08-20 13:47:07,566 - INFO - 🔍 Поиск: ЯЯЯ Краска д волос Эстель Гель №116 тон натур.-рус...
+2026-08-20 13:47:07,568 - ERROR - ❌ Ошибка поиска: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5b56]
+	chromedriver!(No symbol) [0x7ff6ce222833]
+	chromedriver!(No symbol) [0x7ff6ce259c12]
+	chromedriver!(No symbol) [0x7ff6ce253a22]
+	chromedriver!(No symbol) [0x7ff6ce2531e2]
+	chromedriver!(No symbol) [0x7ff6ce19e2bb]
+	chromedriver!(No symbol) [0x7ff6ce19e912]
+	chromedriver!(No symbol) [0x7ff6ce19eed5]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff6ce19d83c]
+	chromedriver!GetHandleVerifier [0x7ff6cee935e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 13:47:07,568 - WARNING - ❌ Ссылка не найдена: ЯЯЯ Краска д/волос Эстель Гель №116 тон натур.-рус
+2026-08-20 13:47:07,569 - INFO - ⏳ Пауза 3.4 сек...
+2026-08-20 13:47:11,004 - INFO - [20] ЯЯЯ Пена д/купания дет КРЯ-КРЯ 250мл
+2026-08-20 13:47:15,530 - INFO - 🔍 Поиск: ЯЯЯ Пена д купания дет КРЯ-КРЯ 250мл...
+2026-08-20 13:47:15,532 - ERROR - ❌ Ошибка поиска: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ce6aabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6ce6aac10+15210]
+	chromedriver!(No symbol) [0x7ff6ce1d5b56]
+	chromedriver!(No symbol) [0x7ff6ce222833]
+	chromedriver!(No symbol) [0x7ff6ce259c12]
+	chromedriver!(No symbol) [0x7ff6ce253a22]
+	chromedriver!(No symbol) [0x7ff6ce2531e2]
+	chromedriver!(No symbol) [0x7ff6ce19e2bb]
+	chromedriver!(No symbol) [0x7ff6ce19e912]
+	chromedriver!(No symbol) [0x7ff6ce19eed5]
+	chromedriver!GetHandleVerifier [0x7ff6ceccb79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cecc5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cecebcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6ce6c8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6ce6d147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff6ce19d83c]
+	chromedriver!GetHandleVerifier [0x7ff6cee935e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffa78e37374+14]
+	ntdll!RtlUserThreadStart [0x7ffa7ac7cc91+21]
+
+2026-08-20 13:47:15,532 - WARNING - ❌ Ссылка не найдена: ЯЯЯ Пена д/купания дет КРЯ-КРЯ 250мл
+2026-08-20 13:47:15,533 - INFO - ⏳ Пауза 5.2 сек...
+2026-08-20 13:47:20,312 - INFO - 🔒 Драйвер закрыт

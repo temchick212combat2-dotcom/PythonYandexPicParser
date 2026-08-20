@@ -1,0 +1,60 @@
+2026-08-20 13:35:32,041 - INFO - Найдено 3 URL в колонке 'image_url'
+2026-08-20 13:35:32,042 - INFO - Начало загрузки 3 изображений
+2026-08-20 13:35:32,053 - INFO - Загрузка [1/3]: https://favicon.yandex.net/favicon/xn--80ab4a6aza2b.xn--p1ai?size=16&stub=1
+2026-08-20 13:35:32,209 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\row_0001\xn--80ab4a6aza2b.png
+2026-08-20 13:35:32,212 - INFO - Загрузка [2/3]: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-5194696-images-thumbs&n=13
+2026-08-20 13:35:32,377 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\row_0002\image_f04a15696e.png
+2026-08-20 13:35:32,380 - INFO - Загрузка [3/3]: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-10115491-images-thumbs&n=13
+2026-08-20 13:35:32,490 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\row_0003\image_4fffde9ad8.png
+2026-08-20 13:35:32,493 - INFO - Загрузка завершена! Успешно: 3, Ошибок: 0, Пропущено: 0
+2026-08-20 13:40:51,656 - INFO - Загружены колонки: query, image_url, timestamp
+2026-08-20 13:40:58,608 - INFO - Выбрана колонка имен: query
+2026-08-20 13:41:09,952 - INFO - Найдено 3 валидных URL
+2026-08-20 13:41:09,953 - INFO - Из них с именами: 3
+2026-08-20 13:41:09,954 - INFO - Начало загрузки 3 изображений
+2026-08-20 13:41:09,957 - INFO - Загрузка [1/3]: https://favicon.yandex.net/favicon/apple-avenue.ru?size=16&stub=1 (имя: S23-BLK)
+2026-08-20 13:41:10,072 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\S23-BLK.png
+2026-08-20 13:41:10,075 - INFO - Загрузка [2/3]: https://avatars.mds.yandex.net/i?id=f37f84b2733367076a8a22755e0db61b00571dbf-5194696-images-thumbs&n=13 (имя: MBP16-2023)
+2026-08-20 13:41:10,225 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\MBP16-2023.png
+2026-08-20 13:41:10,227 - INFO - Загрузка [3/3]: https://avatars.mds.yandex.net/i?id=141b4b17821af0b23bd0a9451307e5c60c80a16c-10115491-images-thumbs&n=13 (имя: WH1000XM5)
+2026-08-20 13:41:10,340 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\WH1000XM5.png
+2026-08-20 13:41:10,342 - INFO - Загрузка завершена! Успешно: 3, Ошибок: 0, Пропущено: 0
+2026-08-20 13:47:44,991 - INFO - Загружены колонки: query, image_url, timestamp
+2026-08-20 13:47:47,447 - INFO - Выбрана колонка имен: query
+2026-08-20 13:47:52,984 - INFO - Найдено 16 валидных URL
+2026-08-20 13:47:52,984 - INFO - Из них с именами: 16
+2026-08-20 13:47:52,986 - INFO - Начало загрузки 16 изображений
+2026-08-20 13:47:52,991 - INFO - Загрузка [1/16]: https://avatars.mds.yandex.net/i?id=741769c5e431e010b38e34b0189953e0a13086a7-9181393-images-thumbs&n=13 (имя: Санки ватрушка Светяшка)
+2026-08-20 13:47:53,252 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Санки ватрушка Светяшка.png
+2026-08-20 13:47:53,255 - INFO - Загрузка [2/16]: https://avatars.mds.yandex.net/i?id=71cd53ab521777ca963ca64f0dd158b77ff2a1f0-8497446-images-thumbs&n=13 (имя: Тетрадь 96л Staff Города клетка _20-02467)
+2026-08-20 13:47:53,418 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Тетрадь 96л Staff Города клетка _20-02467.png
+2026-08-20 13:47:53,425 - INFO - Загрузка [3/16]: https://favicon.yandex.net/favicon/vseinstrumenti.ru?size=16&stub=1 (имя: Лестница-стремянка 3-х ступ. двухсторонняя)
+2026-08-20 13:47:53,534 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Лестница-стремянка 3-х ступ. двухсторонняя.png
+2026-08-20 13:47:53,536 - INFO - Загрузка [4/16]: https://avatars.mds.yandex.net/i?id=178dc8047cbc9aa2c3c3f520fda6e8ae7f0468fb-16559529-images-thumbs&n=13 (имя: Гастроемкость нерж. 654х530х100 24л)
+2026-08-20 13:47:53,720 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Гастроемкость нерж. 654х530х100 24л.png
+2026-08-20 13:47:53,723 - INFO - Загрузка [5/16]: https://avatars.mds.yandex.net/i?id=eb9df06bd699af5f8a4ec921e9196df87ee87e26-4120172-images-thumbs&n=13 (имя: Салфетки микрофибра 30_30см, комплект 8шт COLOR)
+2026-08-20 13:47:53,866 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Салфетки микрофибра 30_30см, комплект 8шт COLOR.png
+2026-08-20 13:47:53,869 - INFO - Загрузка [6/16]: https://avatars.mds.yandex.net/i?id=636129e00eb71af1ec53f88827ed924e986b7377-10098996-images-thumbs&n=13 (имя: ЯЯЯ ПОДАРОК Маска тонирующая д_волос Эстель 8_1 Фиалковый_20)
+2026-08-20 13:47:54,008 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\ЯЯЯ ПОДАРОК Маска тонирующая д_волос Эстель 8_1 Фиалковый_20.png
+2026-08-20 13:47:54,011 - INFO - Загрузка [7/16]: https://avatars.mds.yandex.net/i?id=71eb959f5aac2d89b2a5da1ef7386ca74dc25e22-11924985-images-thumbs&n=13 (имя: Защелка Code Deco 5400-CR хром)
+2026-08-20 13:47:54,132 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Защелка Code Deco 5400-CR хром.png
+2026-08-20 13:47:54,135 - INFO - Загрузка [8/16]: https://avatars.mds.yandex.net/i?id=f9b826e1d5a84aa4d0b77d68fd0d0a6c_sr-4836432-images-thumbs&n=13 (имя: ЯЯЯ Краска д_бровей и ресниц Роколор Микро Коричневая 5_5мл_20-27223)
+2026-08-20 13:47:54,362 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\ЯЯЯ Краска д_бровей и ресниц Роколор Микро Коричневая 5_5мл_20-27223.png
+2026-08-20 13:47:54,365 - INFO - Загрузка [9/16]: https://favicon.yandex.net/favicon/tehno-tkan.ru?size=16&stub=1 (имя: Термопленка силиконовая в рулоне 0,8 за 1м)
+2026-08-20 13:47:54,443 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Термопленка силиконовая в рулоне 0,8 за 1м.png
+2026-08-20 13:47:54,446 - INFO - Загрузка [10/16]: https://avatars.mds.yandex.net/i?id=a9eec0df983d453e8d9f2f31e544868510a17a1f-4956265-images-thumbs&n=13 (имя: Двухполюсный указатель напряжения УНК-0,4 (Р))
+2026-08-20 13:47:54,559 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Двухполюсный указатель напряжения УНК-0,4 (Р).png
+2026-08-20 13:47:54,562 - INFO - Загрузка [11/16]: https://avatars.mds.yandex.net/i?id=eccfee7386bdd88b2739f4723faaa79dd92b1c06-5213980-images-thumbs&n=13 (имя: Сумка из мягкого пластика 40_30 Голландия 140мкн)
+2026-08-20 13:47:54,711 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Сумка из мягкого пластика 40_30 Голландия 140мкн.png
+2026-08-20 13:47:54,713 - INFO - Загрузка [12/16]: https://avatars.mds.yandex.net/get-direct/5252717/tOqbdMQo2Zz4fr_CyZ-Vvw/y300 (имя: Лампа светодиодная LED 10Вт Т8 G13 6500К дневной)
+2026-08-20 13:47:54,880 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Лампа светодиодная LED 10Вт Т8 G13 6500К дневной.png
+2026-08-20 13:47:54,889 - INFO - Загрузка [13/16]: https://avatars.mds.yandex.net/i?id=273c730b12c6a27d39e41eb6eab0292417866af4-5243715-images-thumbs&n=13 (имя: Укрывной матер.Спанбонд 42 Экономный Садовод 3,2_6м)
+2026-08-20 13:47:55,068 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Укрывной матер.Спанбонд 42 Экономный Садовод 3,2_6м.png
+2026-08-20 13:47:55,071 - INFO - Загрузка [14/16]: https://avatars.mds.yandex.net/i?id=1e741b31caa3c9517bec798db8a648b5b7e4b736-10385082-images-thumbs&n=13 (имя: БАД Кальций Д3 со вкусом апельсина №30 банка _190623)
+2026-08-20 13:47:55,210 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\БАД Кальций Д3 со вкусом апельсина №30 банка _190623.png
+2026-08-20 13:47:55,213 - INFO - Загрузка [15/16]: https://avatars.mds.yandex.net/get-yabs_performance/11515558/hat7a5e51f62171bb262166123ebeac3c14/huge (имя: Лампа светодиодная LED 20вт Т8 холодный матовый)
+2026-08-20 13:47:55,334 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Лампа светодиодная LED 20вт Т8 холодный матовый.png
+2026-08-20 13:47:55,337 - INFO - Загрузка [16/16]: https://avatars.mds.yandex.net/i?id=6328390bde37db35274264841176ebdcf86a47a3-5336145-images-thumbs&n=13 (имя: Фартук одноразовый 50 шт)
+2026-08-20 13:47:55,486 - INFO - Успешно сохранен: C:\Users\User\Downloads\images\Фартук одноразовый 50 шт.png
+2026-08-20 13:47:55,488 - INFO - Загрузка завершена! Успешно: 16, Ошибок: 0, Пропущено: 0
+2026-08-20 13:48:43,414 - INFO - Выбрана колонка URL: timestamp
